@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="pet-doc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/anipat/pet-doc.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
